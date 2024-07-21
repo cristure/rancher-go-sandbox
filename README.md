@@ -10,7 +10,7 @@ The test expects a docker volume created pointing at a rancher backup. If you do
 
 ## Setup
 
-1. The test expects a user with a password already defined. You can download my backup from here. [here](https://drive.usercontent.google.com/download?id=1UxD91cgdjqRJ6p5PRHvPaoe4KYbLxpKd&export=download&authuser=0&confirm=t&uuid=cf9b5265-6777-4683-a366-528de22d5750&at=APZUnTVg3SwptgpBiq4jIIAWpU4t:1721565539878).
+1. The test expects a user with a password already defined. You can download my backup from [here](https://drive.usercontent.google.com/download?id=1UxD91cgdjqRJ6p5PRHvPaoe4KYbLxpKd&export=download&authuser=0&confirm=t&uuid=cf9b5265-6777-4683-a366-528de22d5750&at=APZUnTVg3SwptgpBiq4jIIAWpU4t:1721565539878).
 2. Extract the `.tar.gz`
 ```azure
 tar xvf <DOWNLOAD_FOLDER>.tar.gz
